@@ -22,5 +22,5 @@ Tableau
 
 Posted in
 
-[My Blog] (https://editor.wix.com/html/editor/web/renderer/edit/70c196fb-b010-43f5-bea3-299cdf9ee7b7?metaSiteId=be500e52-737c-4df0-acd1-0283359978fc)
+[My Blog](https://editor.wix.com/html/editor/web/renderer/edit/70c196fb-b010-43f5-bea3-299cdf9ee7b7?metaSiteId=be500e52-737c-4df0-acd1-0283359978fc)
 [Tableau Public](https://public.tableau.com/app/profile/deanelle.thompson/viz/HealthcareRevenueManagement/Dashboard2)
